@@ -1,6 +1,6 @@
 # DeepFashion Retrieval 2019
 
-Simple image retrieval algorithm on [deep-fashion dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) with pytorch
+This is an updated implementation of Simple image retrieval algorithm on [deep-fashion dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) with pytorch
 
 ![Capture](resources/Capture.PNG)
 
@@ -79,6 +79,5 @@ Directory structure:
 - Ubuntu 16.04
 - Pytorch 1.1 (Stable)
 
-## Original author of the code
-
+## Acknowledgement
 Warning: Not maintained anymore. (https://github.com/ihciah/deep-fashion-retrieval)
