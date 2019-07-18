@@ -2,7 +2,6 @@
 
 This is an updated implementation of Simple image retrieval algorithm on [deep-fashion dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) with pytorch
 
-![Capture](resources/Capture.PNG)
 
 ### Dependencies
 
@@ -36,10 +35,15 @@ This is an updated implementation of Simple image retrieval algorithm on [deep-f
     `python retrieval.py img/Sheer_Pleated-Front_Blouse/img_00000005.jpg`.
     
     Set `DISTANCE_METRIC` in `config.py` to use different [metrics](https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cdist.html) such as `cosine`, `euclidean` on deep feature and color feature..
+
+## output 
+
+![Capture](resources/Capture.PNG)
     
 ## For training on your own (unless you have a good GPU, don't even try)
 
 ### Training
+
 1. Download dataset from [DeepFashion: Attribute Prediction](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html)
 2. Unzip all files and set `DATASET_BASE` in `config.py`
 3. Run `train.py`
