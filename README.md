@@ -84,4 +84,4 @@ Directory structure:
 - Pytorch 1.1 (Stable)
 
 ## Acknowledgement
-Warning: Not maintained anymore. (https://github.com/ihciah/deep-fashion-retrieval)
+(https://github.com/ihciah/deep-fashion-retrieval)Warning: Not maintained anymore. 
