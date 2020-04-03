@@ -1,4 +1,4 @@
-# DeepFashion Retrieval 2019
+# DeepFashion Retrieval 2020
 
 This is an updated implementation of Simple image retrieval algorithm on [deep-fashion dataset](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) with pytorch
 
